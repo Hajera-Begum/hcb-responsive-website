@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/* navbar section start here  */
+
+
+.nav-section{
+    background-color: rgb(25, 159, 172);
+}
+.shop {
+    color: rgb(66, 245, 11);
+  font-weight: bold;
+  font-size: 25px;
+}
+.online{
+    color: rgba(248, 240, 8, 0.981);
+    font-weight: bold;
+    font-size:25px;
+}
+.market{
+    color: rgb(226, 43, 202);
+    font-weight: bold;
+    font-size: 25px;  
+}
