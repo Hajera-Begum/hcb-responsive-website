@@ -95,4 +95,14 @@
 }
 /* section four start here  */
 
+/* five section start here  */
+.five-section{
+    background-color: rgb(25, 159, 172); 
+    color: white;
+    
+    padding: 5px;
+    border-left: 15px;
+    border-right: 15px;
+    border-radius: 5px;
+}
 
