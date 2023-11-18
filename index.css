@@ -122,3 +122,11 @@
     border-radius: 5px;
     padding: 5px;
 }
+/* footer section start here  */
+.foter>p>span{
+    font-size: 50px;
+}
+.hori{
+   
+    border: solid 1px  rgb(249, 14, 202) ;
+}
