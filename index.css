@@ -7,6 +7,7 @@
 
 .nav-section{
     background-color: rgb(25, 159, 172);
+   
 }
 .shop {
     color: rgb(66, 245, 11);
@@ -26,3 +27,62 @@
 /* header section starts here  */
 
 /* section one start here  */
+
+/* section two start here  */
+.text-one>p{
+    color:rgb(249, 14, 202) ;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+.text-one{
+
+    text-align: center;
+}
+.text-m{
+    color: rgb(66, 245, 11);
+    font-size: 60px;
+    font-weight: bold;
+}
+.text-o{
+    color: rgb(66, 245, 11);
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.for-card{
+    display: flex;
+    justify-content: space-between;
+}
+.for-card-one{
+    background-color: rgb(25, 159, 172);
+    border-left: 15px;
+    border-right: 15px;
+    border-radius: 3px;
+    display: inline-block;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: white;
+    font-size: 20px;
+}
+.for-card-two{
+    color: brown;
+}
+.for-pic{
+    width: 400px;
+}
+.for-pic>img{
+    width: 100%;
+}
+
+
+
+.for-but>button{
+    background-color: rgb(25, 159, 172); 
+    color: white;
+    width: 100%;
+    border-left: 15px;
+    border-right: 15px;
+    border-radius: 3px;
+
+}
