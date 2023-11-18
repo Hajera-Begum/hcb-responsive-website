@@ -113,3 +113,12 @@
     background-position: center;
     background-size: cover;
 }
+/* section seven starts here  */
+.butn-order>button{
+    background-color: rgb(25, 159, 172); 
+    width: 100%;
+    border-left: 15px;
+    border-right: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
